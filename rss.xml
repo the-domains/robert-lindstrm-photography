@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Robert Lindström Photography]]></title>
         <description><![CDATA[Robert Lindström Photography]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/robert-lindstrm-photography/</link>
         <generator>The Grid</generator>
         <lastBuildDate>Thu, 23 Jun 2016 12:41:12 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://thegrid.ai/robert-lindstrm-photography/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/09ade359-2c1f-4c4e-943e-88ff4cd8acc2.jpg">]]></description>
+            <link>https://thegrid.ai/robert-lindstrm-photography/a2cf5f06-cc72-4d76-9336-782d2a041c07/index.html</link>
+            <guid isPermaLink="false">a2cf5f06-cc72-4d76-9336-782d2a041c07</guid>
+            <pubDate>Thu, 23 Jun 2016 12:41:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1db0a7be-ac1a-4173-b024-f12874b37c0e.jpg">]]></description>
-            <link>undefined036f3143-478e-4900-beb7-617d3db8fdf1/index.html</link>
+            <link>https://thegrid.ai/robert-lindstrm-photography/036f3143-478e-4900-beb7-617d3db8fdf1/index.html</link>
             <guid isPermaLink="false">036f3143-478e-4900-beb7-617d3db8fdf1</guid>
             <pubDate>Thu, 23 Jun 2016 12:41:06 GMT</pubDate>
         </item>
